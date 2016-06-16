@@ -1,4 +1,4 @@
-import './home.html';
+// import './home.html';
 
 import { meteor } from 'meteor/meteor';
 
